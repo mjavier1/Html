@@ -13,3 +13,6 @@ document.write("hello");
 
 
 </script>
+<?php
+echo "f";
+?>
