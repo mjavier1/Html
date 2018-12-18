@@ -9,7 +9,7 @@
 </html>
 <script type="text/javascript">
 
-document.write("hello");
+//document.write("hello");
 
 
 </script>
